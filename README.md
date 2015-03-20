@@ -1,4 +1,8 @@
 # TeamRepo
 DPL Class practice with GitHub
 
-Derek is the best.
+Dapp is the best.
+
+Paul's pretty good too...
+
+“Great, kid. Don’t get cocky” -Han Solo
