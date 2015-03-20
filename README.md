@@ -1,2 +1,2 @@
 # TeamRepo
-DPL Class practice with GitHb
+DPL Class practice with GitHub
